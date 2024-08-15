@@ -3,6 +3,7 @@
 
 The repository contains 3 GENERATIONS of robots from the competition RescueLine, LineFollower and etc.
 
+The project is closed in 2024
 
 ## Authors
 
